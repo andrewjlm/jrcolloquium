@@ -158,4 +158,4 @@ tidy(mod2)[,1:4]
 
 - These slides were created in RMarkdown
 - Sweave file used for Spring 2015 QEM Submission
-- 
+- https://github.com/andrewjlm/jrcolloquium

@@ -1,0 +1,21 @@
+---
+title: "Example"
+author: "Andrew Mullins"
+date: "November 2, 2015"
+output: pdf_document
+---
+
+Here is some cool R stuff:
+```{r mpg}
+mod1 <- lm(mpg~hp, data = mtcars)
+with(mtcars, plot(mpg~hp))
+abline(mod1)
+summary(mod1)
+```
+
+We can do equations too:
+
+$$\sum_{i=1}^{k-1} a_{ij} a_{jk}$$.
+
+$$ \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{(x-\mu)^2}{2 \sigma^2}} $$
+

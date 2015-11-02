@@ -154,8 +154,10 @@ tidy(mod2)[,1:4]
 
 # Learning More
 
-## Examples
+## Learning More
 
 - These slides were created in RMarkdown
 - Sweave file used for Spring 2015 QEM Submission
 - https://github.com/andrewjlm/jrcolloquium
+- Built-In Documentation in RStudio
+- Book: Dynamic Documents with R and `knitr` by Yihui Xie
